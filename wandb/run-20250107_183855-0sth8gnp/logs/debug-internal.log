@@ -1,9 +1,0 @@
-{"time":"2025-01-07T18:38:55.0599739+02:00","level":"INFO","msg":"using version","core version":"0.19.1"}
-{"time":"2025-01-07T18:38:55.0604971+02:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\LDG\\Desktop\\Master\\NN\\HW3\\wandb\\run-20250107_183855-0sth8gnp\\logs\\debug-core.log"}
-{"time":"2025-01-07T18:38:56.2220072+02:00","level":"INFO","msg":"created new stream","id":"0sth8gnp"}
-{"time":"2025-01-07T18:38:56.2231267+02:00","level":"INFO","msg":"handler: started","stream_id":"0sth8gnp"}
-{"time":"2025-01-07T18:38:56.2231267+02:00","level":"INFO","msg":"stream: started","id":"0sth8gnp"}
-{"time":"2025-01-07T18:38:56.2231267+02:00","level":"INFO","msg":"sender: started","stream_id":"0sth8gnp"}
-{"time":"2025-01-07T18:38:56.2231267+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"0sth8gnp"}
-{"time":"2025-01-07T18:38:57.1130129+02:00","level":"INFO","msg":"Starting system monitor"}
-{"time":"2025-01-07T18:38:57.309142+02:00","level":"INFO","msg":"Pausing system monitor"}
