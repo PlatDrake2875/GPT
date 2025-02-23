@@ -1,0 +1,38 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.10.5",
+  "startedAt": "2025-01-08T11:15:35.286920Z",
+  "program": "c:\\Users\\LDG\\Desktop\\Master\\NN\\HW3\\main.ipynb",
+  "codePath": "main.ipynb",
+  "email": "adrian-octavian.patrascu@s.unibuc.ro",
+  "root": "c:\\Users\\LDG\\Desktop\\Master\\NN\\HW3",
+  "host": "DESKTOP-KL0ON5C",
+  "executable": "c:\\Users\\LDG\\Desktop\\Master\\NN\\HW3\\nn_env\\Scripts\\python.exe",
+  "codePathLocal": "main.ipynb",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "gpu": "NVIDIA GeForce RTX 3060",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "999302361088",
+      "used": "368878333952"
+    }
+  },
+  "memory": {
+    "total": "33241866240"
+  },
+  "cpu": {
+    "count": 6,
+    "countLogical": 12
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3060",
+      "memoryTotal": "12884901888",
+      "cudaCores": 3584,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.7"
+}

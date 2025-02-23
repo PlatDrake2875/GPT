@@ -1,0 +1,6 @@
+nn_env/
+results/
+saves_full_models/
+wandb/
+saves/
+data/

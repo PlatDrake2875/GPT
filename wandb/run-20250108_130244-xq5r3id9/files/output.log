@@ -1,0 +1,8 @@
+Training Progress |⚠︎                                       | (!) 0/20 [0%] in 0.1s (0.00/s)
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+Training Progress |⚠︎                                       | (!) 0/20 [0%] in 0.2s (0.00/s)
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+Training Progress |⚠︎                                       | (!) 0/20 [0%] in 0.0s (0.00/s)
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+on 0: Epoch 0000/20: 🟢 Train Loss = 4.47936 | 🔵 Val Loss = 4.47760
+Training Progress |▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉| 20/20 [100%] in 2.1s (9.33/s)

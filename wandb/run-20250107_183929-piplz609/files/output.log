@@ -1,0 +1,125 @@
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+Exception ignored in: <function tqdm.__del__ at 0x000001F8D50A92D0>
+Traceback (most recent call last):
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\std.py", line 1148, in __del__
+    self.close()
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\notebook.py", line 279, in close
+    self.disp(bar_style='danger', check_delay=False)
+AttributeError: 'tqdm_notebook' object has no attribute 'disp'
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+Training Progress |⚠︎                                       | (!) 0/20 [0%] in 0.1s (0.00/s)
+Exception ignored in: <function tqdm.__del__ at 0x000001F8D50A92D0>
+Traceback (most recent call last):
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\std.py", line 1148, in __del__
+    self.close()
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\notebook.py", line 279, in close
+    self.disp(bar_style='danger', check_delay=False)
+AttributeError: 'tqdm_notebook' object has no attribute 'disp'
+Exception ignored in: <function tqdm.__del__ at 0x000001F8D50A92D0>
+Traceback (most recent call last):
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\std.py", line 1148, in __del__
+    self.close()
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\notebook.py", line 279, in close
+    self.disp(bar_style='danger', check_delay=False)
+AttributeError: 'tqdm_notebook' object has no attribute 'disp'
+Exception ignored in: <function tqdm.__del__ at 0x000001F8D50A92D0>
+Traceback (most recent call last):
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\std.py", line 1148, in __del__
+    self.close()
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\notebook.py", line 279, in close
+    self.disp(bar_style='danger', check_delay=False)
+AttributeError: 'tqdm_notebook' object has no attribute 'disp'
+Exception ignored in: <function tqdm.__del__ at 0x000001F8D50A92D0>
+Traceback (most recent call last):
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\std.py", line 1148, in __del__
+    self.close()
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\notebook.py", line 279, in close
+    self.disp(bar_style='danger', check_delay=False)
+AttributeError: 'tqdm_notebook' object has no attribute 'disp'
+Exception ignored in: <function tqdm.__del__ at 0x000001F8D50A92D0>
+Traceback (most recent call last):
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\std.py", line 1148, in __del__
+    self.close()
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\notebook.py", line 279, in close
+    self.disp(bar_style='danger', check_delay=False)
+AttributeError: 'tqdm_notebook' object has no attribute 'disp'
+Exception ignored in: <function tqdm.__del__ at 0x000001F8D50A92D0>
+Traceback (most recent call last):
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\std.py", line 1148, in __del__
+    self.close()
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\notebook.py", line 279, in close
+    self.disp(bar_style='danger', check_delay=False)
+AttributeError: 'tqdm_notebook' object has no attribute 'disp'
+Exception ignored in: <function tqdm.__del__ at 0x000001F8D50A92D0>
+Traceback (most recent call last):
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\std.py", line 1148, in __del__
+    self.close()
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\notebook.py", line 279, in close
+    self.disp(bar_style='danger', check_delay=False)
+AttributeError: 'tqdm_notebook' object has no attribute 'disp'
+Exception ignored in: <function tqdm.__del__ at 0x000001F8D50A92D0>
+Traceback (most recent call last):
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\std.py", line 1148, in __del__
+    self.close()
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\notebook.py", line 279, in close
+    self.disp(bar_style='danger', check_delay=False)
+AttributeError: 'tqdm_notebook' object has no attribute 'disp'
+Exception ignored in: <function tqdm.__del__ at 0x000001F8D50A92D0>
+Traceback (most recent call last):
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\std.py", line 1148, in __del__
+    self.close()
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\notebook.py", line 279, in close
+    self.disp(bar_style='danger', check_delay=False)
+AttributeError: 'tqdm_notebook' object has no attribute 'disp'
+Exception ignored in: <function tqdm.__del__ at 0x000001F8D50A92D0>
+Traceback (most recent call last):
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\std.py", line 1148, in __del__
+    self.close()
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\notebook.py", line 279, in close
+    self.disp(bar_style='danger', check_delay=False)
+AttributeError: 'tqdm_notebook' object has no attribute 'disp'
+Exception ignored in: <function tqdm.__del__ at 0x000001F8D50A92D0>
+Traceback (most recent call last):
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\std.py", line 1148, in __del__
+    self.close()
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\notebook.py", line 279, in close
+    self.disp(bar_style='danger', check_delay=False)
+AttributeError: 'tqdm_notebook' object has no attribute 'disp'
+Exception ignored in: <function tqdm.__del__ at 0x000001F8D50A92D0>
+Traceback (most recent call last):
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\std.py", line 1148, in __del__
+    self.close()
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\notebook.py", line 279, in close
+    self.disp(bar_style='danger', check_delay=False)
+AttributeError: 'tqdm_notebook' object has no attribute 'disp'
+Exception ignored in: <function tqdm.__del__ at 0x000001F8D50A92D0>
+Traceback (most recent call last):
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\std.py", line 1148, in __del__
+    self.close()
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\notebook.py", line 279, in close
+    self.disp(bar_style='danger', check_delay=False)
+AttributeError: 'tqdm_notebook' object has no attribute 'disp'
+Exception ignored in: <function tqdm.__del__ at 0x000001F8D50A92D0>
+Traceback (most recent call last):
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\std.py", line 1148, in __del__
+    self.close()
+  File "c:\Users\LDG\Desktop\Master\NN\HW3\nn_env\lib\site-packages\tqdm\notebook.py", line 279, in close
+    self.disp(bar_style='danger', check_delay=False)
+AttributeError: 'tqdm_notebook' object has no attribute 'disp'
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+Training Progress |⚠︎                                       | (!) 0/20 [0%] in 0.0s (0.00/s)
+5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d6.29.55dc3a68c-e34e-4080-9c3e-2a532b2ccb4d
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+Training Progress |⚠︎                                       | (!) 0/20 [0%] in 35.6s (0.00/s)
